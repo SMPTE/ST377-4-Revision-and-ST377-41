@@ -9,7 +9,7 @@ The revision references the proposed ST 377-41 standard, which aims to create a 
 
 [31FS-FCD-ST-377-4-Revision-diff-from-377-4-2012](31FS-FCD-ST-377-4-Revision-diff-from-377-4-2012.pdf) contains a redline from the 2012 edition of ST 377-4.
 
-[GitHub issues](https://github.com/SMPTE/ST377-4-Revision/issues) are preferred for discussion of these proposed standards. Alternatively, comments can be sent to 31fs-chair@lists.smpte.org.
+[GitHub issues](https://github.com/SMPTE/ST377-4-Revision-and-ST377-41/issues) are preferred for discussion of these proposed standards. Alternatively, comments can be sent to 31fs-chair@lists.smpte.org.
 
 This material is work under development and shall not be referred to as a SMPTE Standard, Recommended Practice, or Engineering Guideline. It is distributed for review and comment; distribution does not constitute publication.
 
