@@ -1,4 +1,4 @@
-The Committee Drafts of a revision to SMPTE ST 377-4 [31FS-FCD-ST-377-4-Revision.pdf](31FS-FCD-ST-377-4-Revision.pdf) and related proposed new standard [31FS-CD-ST-377-41.pdf](31FS-CD-ST-377-41.pdf) are made available by the [Society of Motion Picture and Television Engineers](https://www.smpte.org) for a public review period ending no earlier than July 24, 2020, and no later than April 23, 2021.
+The Committee Drafts of a revision to SMPTE ST 377-4 [31FS-FCD-ST-377-4-Revision.pdf](31FS-FCD-ST-377-4-Revision.pdf) and related proposed new standard [31FS-CD-ST-377-41.pdf](31FS-CD-ST-377-41.pdf) are made available by the [Society of Motion Picture and Television Engineers](https://www.smpte.org) for a public review period ending no earlier than July 24, 2020, and no later than January 25, 2021.
 
 The ST 377-4 revision aims to:
 * Create additional MCALabelSubdescriptor properties and controlled vocabulary
